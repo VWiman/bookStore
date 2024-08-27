@@ -1,0 +1,202 @@
+[
+    {
+        "image": "theroad",
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "pages": 287,
+        "year": 2006,
+        "description": "A haunting novel about a father and son's journey through a post-apocalyptic world.",
+        "isbn": "978-0307387899",
+        "edition": "1st"
+    },
+    {
+        "image": "normalpeople",
+        "title": "Normal People",
+        "author": "Sally Rooney",
+        "pages": 273,
+        "year": 2018,
+        "description": "A nuanced exploration of friendship, love, and personal identity.",
+        "isbn": "978-0571334650",
+        "edition": "2nd"
+    },
+    {
+        "image": "theundergroundrailroad",
+        "title": "The Underground Railroad",
+        "author": "Colson Whitehead",
+        "pages": 320,
+        "year": 2016,
+        "description": "A powerful reimagining of the historical Underground Railroad as an actual railway.",
+        "isbn": "978-0385542364",
+        "edition": "1st"
+    },
+    {
+        "image": "thenightcircus",
+        "title": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "pages": 387,
+        "year": 2011,
+        "description": "A fantastical love story set within a mysterious, magical circus.",
+        "isbn": "978-0307744432",
+        "edition": "3rd"
+    },
+    {
+        "image": "tokillamockingbird",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "pages": 281,
+        "year": 1960,
+        "description": "A seminal work on racial injustice in the American South, told through the eyes of a young girl.",
+        "isbn": "978-0061120084",
+        "edition": "5th"
+    },
+    {
+        "image": "1984",
+        "title": "1984",
+        "author": "George Orwell",
+        "pages": 328,
+        "year": 1949,
+        "description": "A dystopian novel exploring themes of totalitarianism, surveillance, and individualism.",
+        "isbn": "978-0451524935",
+        "edition": "1st"
+    },
+    {
+        "image": "thecatcherintherye",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "pages": 277,
+        "year": 1951,
+        "description": "A story about teenage rebellion and identity, narrated by the iconic Holden Caulfield.",
+        "isbn": "978-0316769488",
+        "edition": "10th"
+    },
+    {
+        "image": "prideandprejudice",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "pages": 279,
+        "year": 1813,
+        "description": "A classic romantic novel that critiques the British landed gentry of the early 19th century.",
+        "isbn": "978-1503290563",
+        "edition": "4th"
+    },
+    {
+        "image": "thegreatgatsby",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "pages": 180,
+        "year": 1925,
+        "description": "A tragic story of love and ambition set in the Jazz Age of 1920s America.",
+        "isbn": "978-0743273565",
+        "edition": "2nd"
+    },
+    {
+        "image": "beloved",
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "pages": 324,
+        "year": 1987,
+        "description": "A haunting tale of slavery, loss, and the struggle for freedom.",
+        "isbn": "978-1400033416",
+        "edition": "1st"
+    },
+    {
+        "image": "bravenewworld",
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "pages": 311,
+        "year": 1932,
+        "description": "A dystopian vision of a future society driven by technological control and the loss of individuality.",
+        "isbn": "978-0060850524",
+        "edition": "8th"
+    },
+    {
+        "image": "mobydick",
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "pages": 635,
+        "year": 1851,
+        "description": "An epic tale of obsession and revenge between Captain Ahab and the great white whale.",
+        "isbn": "978-1503280786",
+        "edition": "3rd"
+    },
+    {
+        "image": "warandpeace",
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "pages": 1225,
+        "year": 1869,
+        "description": "A grand narrative that intertwines the lives of several families during the Napoleonic Wars.",
+        "isbn": "978-1400079988",
+        "edition": "6th"
+    },
+    {
+        "image": "thehobbit",
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "pages": 310,
+        "year": 1937,
+        "description": "A fantastical adventure of a hobbit's journey to reclaim a lost kingdom from a dragon.",
+        "isbn": "978-0547928227",
+        "edition": "7th"
+    },
+    {
+        "image": "thealchemist",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "pages": 208,
+        "year": 1988,
+        "description": "A philosophical tale about following one's dreams and discovering personal legend.",
+        "isbn": "978-0062315007",
+        "edition": "2nd"
+    },
+    {
+        "image": "slaughterhousefive",
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "pages": 275,
+        "year": 1969,
+        "description": "A satirical novel that blends war, time travel, and existential reflection.",
+        "isbn": "978-0385333849",
+        "edition": "5th"
+    },
+    {
+        "image": "thehandmaidstale",
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "pages": 311,
+        "year": 1985,
+        "description": "A dystopian novel about a theocratic society where women are subjugated and used for reproduction.",
+        "isbn": "978-0385490818",
+        "edition": "4th"
+    },
+    {
+        "image": "thegrapesofwrath",
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "pages": 464,
+        "year": 1939,
+        "description": "A powerful story of the Joad family's migration during the Great Depression.",
+        "isbn": "978-0143039433",
+        "edition": "6th"
+    },
+    {
+        "image": "janeeyre",
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "pages": 500,
+        "year": 1847,
+        "description": "A classic novel about the life and struggles of an orphaned girl who becomes a governess.",
+        "isbn": "978-0141441146",
+        "edition": "9th"
+    },
+    {
+        "image": "thepictureofdoriangray",
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "pages": 254,
+        "year": 1890,
+        "description": "A novel exploring themes of vanity, moral corruption, and the consequences of a life of excess.",
+        "isbn": "978-0141439570",
+        "edition": "2nd"
+    }
+]
