@@ -10,7 +10,6 @@
 body {
     display: flex;
     flex-direction: column;
-    align-items: center;
     width: 100vw;
     height: 100vh;
     color: #341b16;
@@ -19,12 +18,11 @@ body {
 
 h1 {
     font-size: 32px;
-    text-align: center;
+    text-align: left;
     text-transform: uppercase;
     font-family: "Permanent Marker", cursive;
     z-index: 10;
-    margin-top: 40px;
-    margin-bottom: 40px;
+
 }
 
 dl {
@@ -41,12 +39,64 @@ dt {
     text-transform: uppercase;
     font-weight: bold;
 }
-/* <header> */
-.header-container {
+
+input {
+    margin: 8px;
+    padding: 5px 0;
+}
+
+label {
+    margin-right: 10px;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+textarea {
+    padding: 8px;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.form-container {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 20px;
+    background-color: #f2dcb1;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
 }
+
+.hidden {
+    display: none;
+}
+
+/* <header> */
+.header-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    padding: 20px 60px;
+
+}
+
+/* <button> */
+.admin-button {
+    cursor: pointer;
+    border-radius: 10px;
+    padding: 0 10px;
+    background-color: white;
+}
+
 /* <img> */
 .book-img {
     max-width: 100%;
@@ -57,10 +107,10 @@ dt {
 /* <main> */
 .main-container {
     display: flex;
+    justify-content: center;
     flex-direction: row;
     justify-content: space-evenly;
-    width: 80vw;
-    max-width: 1200px;
+    margin: 40px;
 }
 
 /* <div> */
@@ -72,9 +122,8 @@ dt {
     height: fit-content;
     min-width: 300px;
     background-color: #f2dcb1;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
     border-radius: 4px;
-    border: 1px solid black;
 }
 
 /* <h2> */
@@ -161,9 +210,8 @@ dt {
     padding: 20px;
     width: 50%;
     background-color: #f6eccb;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
     border-radius: 4px;
-    border: 1px solid black;
 }
 
 /* <h3> */
